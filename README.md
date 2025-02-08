@@ -11,16 +11,16 @@ A **Retrieval-Augmented Generation (RAG) chatbot** built using **LangChain, Open
 
 ## 📷 Screenshots
 ### **Chat Interface**
-![Chat UI](images/Screenshot$2025-02-08$190931.png)
+![Chat UI](images/Screenshot$202025-02-08$20190931.png)
 
 ### **Chat Interface**
-![Chat UI](images/Screenshot$2025-02-08$190948.png)
+![Chat UI](images/Screenshot$202025-02-08$20190948.png)
 
 ### **Chat Interface**
-![Chat UI](images/Screenshot$2025-02-08$191005.png)
+![Chat UI](images/Screenshot$202025-02-08$20191005.png)
 
 ### **Chat Interface**
-![Chat UI](images/Screenshot$2025-02-08$191043.png)
+![Chat UI](images/Screenshot$202025-02-08$20191043.png)
 
 
 ## 🏗️ Tech Stack

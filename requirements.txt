@@ -1,0 +1,8 @@
+flask 
+langchain 
+langchain-community 
+langchain_openai
+faiss-cpu 
+flask-cors
+flask-restful
+python-dotenv
